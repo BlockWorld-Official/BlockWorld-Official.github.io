@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+.Button
+{
+	width: 200px;
+	height: 50px;
+	color: aliceblue;
+	border: none;
+	border-radius: 3px;
+	outline: none;
+	letter-spacing: 0.6em;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.16));
+	font-family: "Motiva Sans", Sans-serif;
+	background: linear-gradient(to right, #06bfff 50%, #2b74ff 100%);
+}
+
+.Button:hover
+{
+	cursor: pointer;
+}

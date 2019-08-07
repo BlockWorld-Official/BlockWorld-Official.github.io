@@ -8,13 +8,14 @@
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 <link href="../css/Head.css" rel="stylesheet" type="text/css">
-<link href="../font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="../css/Button.css" rel="stylesheet" type="text/css">
+<link href="../tools/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 </head>
 	
 <body style="margin: 0">
 	<div class="headbar">
-    <img src="../images/BlcokWorld-Large.png" width="260" height="34" alt=""/>
-    </div>
+   		<img src="../images/BlcokWorld-Large.png" width="260" height="34" alt=""/>
+   	</div>
 <!-- TemplateBeginEditable name="EditRegion" -->EditRegion<!-- TemplateEndEditable -->
 </body>
 </html>
