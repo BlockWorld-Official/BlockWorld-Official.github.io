@@ -5,3 +5,9 @@
 	padding: 15px;
 	background-color: #ECECEC;
 }
+
+.Div-center
+{
+	width: 60%;
+	margin: auto;
+}

@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+.title
+{
+	font-size: 30px;
+	font-weight: bold;
+	color: #4F4F4F;
+	position: relative;
+}
+
+.title-small
+{
+	font-size: 20px;
+	font-weight: bold;
+	position: relative;
+}
