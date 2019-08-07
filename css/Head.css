@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+.headbar
+{
+	padding: 10px;
+	background-color: #ECECEC;
+}
+
+.Button-blue
+{
+	color: aliceblue;
+	text-align: center;
+	border-radius: 3px;
+	font-size: 18px;
+    line-height: 1;
+    letter-spacing: 0.03em;
+    padding: 15px 60px 15px 25px;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.16));
+	background-size: 200%;
+    background-position: right 0;
+    background: linear-gradient(to right, #06bfff 50%, #2b74ff 100%);
+}
